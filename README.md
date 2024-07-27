@@ -14,7 +14,7 @@ CamGPT is a tool that allows you to chat with video using the OpenAI Vision API.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/CamGPT.git
+    git clone https://github.com/444vj/camGPT.git
     cd CamGPT
     ```
 
